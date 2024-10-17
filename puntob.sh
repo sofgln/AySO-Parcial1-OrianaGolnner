@@ -24,7 +24,7 @@ n
 e
 4
 
-#toma lo que queda de disco
++2.5g
 
 w
 EOF
